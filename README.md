@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
 
 ---
@@ -22,6 +23,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/hammadshahzad369/CP-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [GNU C11](https://github.com/hammadshahzad369/CP-Solutions/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.c) |
 
 ### math
 
