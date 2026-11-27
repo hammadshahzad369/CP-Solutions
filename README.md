@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
@@ -30,6 +30,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [GNU C11](https://github.com/hammadshahzad369/CP-Solutions/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.c) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/hammadshahzad369/CP-Solutions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 
 ### math
 
